@@ -1,0 +1,8 @@
+documents
+photos
+music
+videos
+
+#!/bin/bash
+ls
+
